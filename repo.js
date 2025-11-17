@@ -1,11 +1,11 @@
 {
     "contact": "tufaoguinhoe@gmail.com",
-    "id": "lang_pt-br-tufão",
+    "id": "Tufão",
     "patches": {
-        "Translation_patch": "Tradução PT-BR de Touhou 6 feito pela Tufão"
+        "lang_pt-br-tufao": "Tradução PT-BR (Tradução da Tufão)"
     },
     "servers": [
-        "https://mirrors.thpatch.net/Touhou-6_PTBR-tufao/"
+        "https://mirrors.thpatch.net/Touhou-6_PTBR-tufao/lang_pt-br-tufão/"
     ],
     "title": "Tufão Team"
 }
