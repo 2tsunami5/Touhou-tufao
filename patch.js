@@ -10,8 +10,8 @@
         "https://srv.thpatch.net/lang_pt-br-tufão/"
     ],
     "title": "Tufão Team Translation",
-    "update": true
-    ],
+    "update": true,
     "fonts": {
         "ARIAL.ttf": true
+    }
 }

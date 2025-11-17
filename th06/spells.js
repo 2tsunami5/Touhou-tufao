@@ -60,7 +60,7 @@
     "58": "Tabu 「Labirinto do Amor」",
     "59": "Voleio Proibido 「Queda do Arco Estelar」",
     "60": "Voleio Proibido 「Catadióptrico」",
-    "60": "Voleio Proibido 「Relógio que Deixa Passar o Passado」",
+    "61": "Voleio Proibido 「Relógio que Deixa Passar o Passado」",
     "62": "Voleio Secreto 「E Então Não Sobrará Nenhum?」",
     "63": "C.Q.D. 「Repercussões de 495 Anos」"
 }
