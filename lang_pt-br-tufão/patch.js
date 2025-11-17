@@ -7,7 +7,7 @@
     ],
     "id": "lang_pt-br-tufão",
     "servers": [
-        "https://srv.thpatch.net/lang_pt-br-tufão/"
+        "https://mirrors.thpatch.net/Touhou-6_PTBR-tufao/lang_pt-br-tufão/"
     ],
     "title": "Tufão Team Translation",
     "update": true,
