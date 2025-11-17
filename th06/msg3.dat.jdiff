@@ -1,0 +1,215 @@
+﻿{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Raios! Somos a última resistência."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Mas é só você, como assim a 「última resistência」?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Pare de ficar me seguindo!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Obrigada por ser meu guia~"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "Garota Chinesa　　　   ",
+                "Hong Meiling　　　　"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Sabe, mesmo me seguindo,",
+                "não tem nada de interessante por aqui."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Você não estaria fugindo para o meio do nada, não é?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ééé, no calor do momento eu só corro.",
+                "Você também não teria feito o mesmo?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "De qualquer forma, quem é você?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Bom, somente uma simples pessoa."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Mas você não acabou de me atacar?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Ah, foi só um ataque simples.",
+                "Mas, foi você quem atacou primeiro."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Você que é a estranha aqui."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Eu sou somente uma simples pessoa",
+		        "que é uma Sacerdotisa."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Isso é interessante de se ouvir.",
+                "Se não me engano..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ouvi dizer lendas sobre as Sacerdotisas,",
+                "são humanas que podem ser comidas."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Ei! Não diga bobagens como essa."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Certinho, agora me mostre o caminho."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Não tem mais nada além daqui.",
+                "É a versão de teste."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Paciência, nada a ser feito então."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Com licença, senhorita~"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Eita, hora de meter o pé!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Ela se foi."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Oh, olá novamente."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Quanto tempo não nos vemos!"
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "Garota Chinesa  　　　 ",
+                "Hong Meiling　　　　"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Espera, desde quando nos conhecemos?",
+                "Como foi que aconteceu?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Foi agora há pouco."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Acho que acabei encontrando uma esquisita."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Escuta! Você está no meu caminho,",
+                "por acaso está protegendo algo?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Bom, claramente eu sou a porteira e",
+                "isso me faz estar no seu caminho."
+
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Aah, você de fato é a porteira?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Eu sou somente uma simples porteira que por",
+                "acaso está protegendo."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Já que é somente uma simples pessoa...",
+                "Hora de te dar uma lição!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Quem te educou para ser assim?"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Como imaginei,",
+                "não é meu estilo brigar com pessoas simples."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Só pode estar de brincadeira."
+            ]
+        }
+    }
+}
