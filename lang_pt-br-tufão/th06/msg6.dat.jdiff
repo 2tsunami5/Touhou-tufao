@@ -1,0 +1,334 @@
+﻿{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Antes que a Senhorita me dê uma bronca,",
+                "vou fazer tudo para você gastar ao menos 1 bomba~"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Você de novo? Vai fazer uma coisa",
+		"útil sem me atrapalhar."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Já não estava na hora de você",
+                "aparecer?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "'Senhorita'?"
+            ]
+        },
+        "242_h1_0": {
+            "lines": [
+                "　Eterna Lua Escarlate Imatura　　",
+                "Remilia Scarlet"
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "Eu sabia, humanos são inúteis."
+            ]
+        },
+        "243_0": {
+            "lines": [
+                "Ah então a criada é humana."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "Você sabia que isso te faz uma assassina?"
+            ]
+        },
+        "245_0": {
+            "lines": [
+                "Não pode-se dizer que sou uma assassina em massa",
+                "se for só uma pessoa."
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Hmm?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Além disso, ainda é um grande",
+                "incômodo."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Mas como é rápida para ficar apontando dedo."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Não ligo! Só pode ir",
+                "embora?"
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "Não está bem claro que isto é o meu castelo?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "É você que vai embora daqui."
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "Que você deixe de existir neste mundo."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Bom, acho que não tenho o que dizer sobre isso..."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "Agora, estou de barriga cheia..."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "Mas... você não contratou aquela criada",
+                "como segurança?"
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Assim fica fácil lidar com uma jovemzinha",
+                "isolada do mundo com um simples golpe!"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Sakuya é uma excelente faxineira."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "Graças a ela, não temos cabeças rolando no chão."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Você é forte?"
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Não sei.",
+                "Raramente saio do castelo."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Ainda mais que sou fraca à luz do dia."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "...",
+                "Em outras palavras, você é forte."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Sob a lua escarlate, irei te matar",
+                "sem piedade."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Embora a lua escarlate esteja rubra."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "A noite aparenta ser longa",
+                "e divertida."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Você é uma pessoa interessante.",
+                "Mas não tem nada de interessante por aqui."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Digo o mesmo para você.",
+                "Você é realmente uma criada?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Essa atmosfera está me dando calafrios.",
+                "Ela está aqui."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Por que as pessoas mais fortes se isolam?"
+            ]
+        },
+        "243_h1_0": {
+            "lines": [
+                "　Eterna Lua Escarlate Imatura　　",
+                "Remilia Scarlet"
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "Uma águia habilidosa nunca esconde sua cauda...",
+                "heh."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "...Falta de neurônio nesse cérebro está grande."
+            ]
+        },
+        "245_0": {
+            "lines": [
+                "Só se for dos humanos."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "que precisam da dependência química para estimular",
+                "o sistema nervoso central, como o cérebro."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "...você é um deles?"
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Sou mais fraca à luz do dia ou a vegetais fedorentos"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "E certas coisas como prata."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Para uma adepta da noite, por algum motivo",
+                "tem tantas fraquezas..."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "Sim, isso é verdade, sou bem frágil."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Interessante, afinal você vai beber",
+                "aquilo?"
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Claro que sim. Mas não sou de comer muito",
+                "então sempre deixo as sobras para mais tarde.",
+
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "Quantas vidas você absorveu para poder chegar",
+                "até aqui?"
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "Por acaso você consegue se lembrar de quantas",
+                "fatias de pão já comeu na sua vida?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "13.",
+                "Mas prefiro comida japonesa."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "Então o que veio fazer aqui?"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Bem, estou de barriga cheia..."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Ah, esquece! Estou com fome."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "...hora do rango."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "aaa agora entendi o que está dizendo."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Achei que estava se referindo a plantas.",
+                "「Verbena」"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Humanos são engraçados."
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Ou será que você não é",
+                "humana?"
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "Sou uma humana divertida!"
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Hehehe, é por causa da lua escarlate estar rubra?"
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "A noite aparenta ser atrevida",
+                "e agradável."
+            ]
+        }
+    }
+}
