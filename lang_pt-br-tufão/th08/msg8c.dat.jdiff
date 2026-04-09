@@ -1,0 +1,449 @@
+﻿{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Estava te esperando."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Muita audácia vir até aqui em plena lua cheia."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "Hmm, você mudou totalmente."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "Não deixarei vocês encostrar um dedo naquela humana!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Aquela ofensiva foi inesperada, mas, mesmo assim,",
+                "não chega a ser um teste de coragem."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Na calada da noite, aqueles que não são humanos",
+                "se destroem uns aos outros."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Uma noite brutal que não perdoa humanos e nem Yōkais."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Isso é por causa de que esta noite é lua cheia?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Infelizmente, eu sou humana."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Ué?",
+                "Irado. Eu também sou humana."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Sakuya, uma oportunidade boa.",
+                "Uma humana, ainda mais em um lugar desses."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "É para ser uma oportunidade boa?",
+                "Ainda não está cedo demais para uma refeição?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "A Senhorita aí é uma Yōkai?",
+                "Bem notável com essas asas enormes."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Não me compare com uma mera Yōkai.",
+                "Meu orgulho..."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Não é bom ter orgulho em um lugar",
+                "como esse."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "E aí? O que a duplinha de humana e",
+                "Yōkai pretende fazer?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Na verdade... teste de coragem..."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Teste de coragem, eh?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Uma humana e uma Yōkai juntas?"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Em uma calada da noite, sob uma verdadeira lua cheia,",
+                "onde até mesmo as plantas dormem?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Isso é ruim? Estamos pegando só um pouco de",
+                "frescor, mesmo sendo fora de época."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Sendo esse o caso, seja obediente e vire",
+                "um fantasma para a nossa alegria."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Senhorita. Humanos não se transformam em",
+                "fantasmas, eles fazem papel de fantasma."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Existem por aí muitos tipos de 「espíritos",
+                "malignos dos rios e montanhas」 [魑魅魍魎] "
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "O que o homem ganha ao se impor",
+                "o dever de atuar?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Você. A que se chamou de humana."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Diga-me, por que não tem medo de Yōkais?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "O que te faz não ficar amedrontada?."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Não sei se vim até aqui para o teste de coragem",
+                "ou se o meu fígado é parte do teste..."
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "Mas, isto não é nada que eu tenha medo."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Mesmo que a velocidade da flecha que",
+                "o olhar não alcança me perfure;"
+            ]
+        },
+        "147_0": {
+            "lines": [
+                "Ainda que seja consumida pelo fogo divino que",
+                "consome aldeias num momento fugaz..."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "A morte não me toca."
+            ]
+        },
+        "149_0": {
+            "lines": [
+                "O teste de coragem já não tem mais significado para mim."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Isso é excelente, Senhorita."
+            ]
+        },
+        "151_0": {
+            "lines": [
+                "Sangue até encher a pança.",
+                "Você não morre se inalar fumaça, não é?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "É impossível, Sakuya."
+            ]
+        },
+        "153_0": {
+            "lines": [
+                "Ela já não é mais humana.",
+                "Só bebo sangue de humanos que têm medo de mim."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Ah, lamentável. Estava esperando algo",
+                "como uma cabaça de saquê infinito."
+            ]
+        },
+        "155_0": {
+            "lines": [
+                "Você é realmente humana?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Se esse é o caso e o motivo for o 'teste de coragem',",
+                "meta o pé daqui. Este lugar não é para pessoas como vocês."
+            ]
+        },
+        "157_0": {
+            "lines": [
+                "Mesmo assim, a forma como ela falou",
+                "deixou bem claro que tem algo aqui."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Huh, a meu ver, parece ter algo aqui.",
+                "Neste momento e em um futuro próximo."
+            ]
+        },
+        "159_0": {
+            "lines": [
+                "Sakuya, suas facas são bem afiadas, mas sua mente é lenta."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "É inegável que a Kaguya está nos usando para",
+                " este 'teste de coragem' com o objetivo de educá-la."
+            ]
+        },
+        "161_0": {
+            "lines": [
+                "Huhー.",
+                "Ouvi uma 'Kaguya'?"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Algo cheirava mal nesse teste de coragem",
+                "com uma humana e uma Yōkai."
+            ]
+        },
+        "163_0": {
+            "lines": [
+                "Toda vez ela quer se livrar de mim.",
+                "Sempre enviando assassinas."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Aquela meliante sabe que eu não posso morrer!"
+            ]
+        },
+        "165_0": {
+            "lines": [
+                "Não foi a Kaguya que criou o Elixir de Hōrai?",
+                "Isso é palhaçada, falta de responsabilidade. Chega!"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Entendeu agora, Sakuya?",
+                "A Kaguya nos usou."
+            ]
+        },
+        "167_0": {
+            "lines": [
+                "Compreendi. A Senhorita aceitou essa",
+                "proposta porque a achou interessante."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Uuuh, só para passar tempo."
+            ]
+        },
+        "169_0": {
+            "lines": [
+                "A 'alma' do teste de coragem é a fumaça do Monte Fuji",
+                "Onde as cinzas vulcânicas eternas são levadas até a Lua."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Nascida do fogo inextinguível.",
+                "A Fênix renasce quantas vezes for preciso."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "A lenda da Fênix que se torna forte a cada vez que renasce.",
+                "As balas de hoje serão o seu trauma, Garotinha."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ahー Carambaー.",
+                "Paro paro, tempo."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Uai?",
+                "Solicitando desistência assim? Para quem estava confiante..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Para mim, já está bom～",
+                "Por favor, não provoque a humana imortal."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Oops, havia esquecido que a Sakuya é mortal."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Comentário deveras tenebroso.",
+                "Vindo da Senhorita, temo não ser uma piada."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Seguinte eu posso não morrer, mas é",
+                "impossível continuar lutando sabe～"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Uh... Sakuya, você não gostaria de ficar imortal também?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Assim, poderíamos ficar juntas para sempre."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Eu serei uma mera mortal o resto da minha vida."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Pode ficar em paz, enquanto estiver viva,",
+                "estarei do seu lado."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Melhor largar esse papo de imortalidade."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Alías, pode não parecer, mas essa trocação franca",
+                "me machucou a beça. Dói tudo."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Dói, mas eu não morro mesmo."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Se a Sakuya disse, não há nada o que fazer, que pena...",
+                "Imortalidade... O Elixir de Hōrai..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ela se acumula no fígado vivo do humano imortal."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "E a que possui o Elixir da imortalidade está bem",
+                "na nossa frente... exausta e sofrendo de dor."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Quem é que come o fígado de seres humanos?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Além do mais, ouviu esse absurdo de quem?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Se bem que sei da resposta sem mesmo perguntar-lhe."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Fígados humanos e coisas do tipo...",
+                "Que papinho perigoso esse de vocês, hein?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Espero que o 'teste de coragem' não seja 'teste de fígado'."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Isso é para o que serve o 'teste de coragem', não é?",
+                "né, mortal Sakuya?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Pelo que parece, estar com a senhora Patchouli faz com que",
+                "se aprendam as coisas mais bizonhas existentes... complicado."
+            ]
+        }
+    }
+}

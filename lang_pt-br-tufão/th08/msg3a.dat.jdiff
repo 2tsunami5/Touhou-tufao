@@ -1,0 +1,271 @@
+﻿{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Então foram vocês.",
+                "As meliantes que tentaram atacar o vilarejo essa noite."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Foi você a responsável por essa cena horripilante?",
+                "O que você fez com os humanos e o vilarejo?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Não entregarei os humanos do vilarejo para vocês, Yōkais."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Apagarei a existência desta noite!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Sim? E quem são vocês?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ei, devolva o vilarejo neste instante!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Quanta persistência."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Não quero papo contigo."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Aqui não era para estar o vilarejo humano?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "E ainda assim, não tem nada aqui.",
+                "Cadê as pessoas, as suas casas?!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Não fiz nada."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Só a deixei não ser visível para vocês."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Reimu, evite ter apego a este lugar. Não temos tempo."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Mesmo estando aqui, a Lua continua a se pôr."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Não estou apegada a este lugar, mas espera um pouco."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Não posso fazer vista grossa em uma Yōkai",
+                "que apaga vilarejos humanos."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Esse lugar não é habitado por humanos originalmente."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Apenas a deixei de forma que sua aparência seja visível."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Eu irei proteger os humanos desta ominosa noite."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Ei, ei!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Caso não saiba, eu consigo ver as aparências",
+                "dos humanos sem problemas."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Esse tipo de duplicidade é inútil.",
+                "Não concorda?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Quem são vocês de fato?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Tudo bem. Eu não consigo ver o vilarejo."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Ugh, mesmo com esse pingo de simpatia comigo."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "E além do mais, você."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Parece ser uma meia-criatura, correto?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Se não for lua cheia, eu sou humana."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Não é tão diferente como os 「Cachorros com Rosto Humano」",
+                "ou 「Rochas com Rosto Humano」."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Qual seria o sentido de transformar enquanto se mantém",
+                "o rosto? A transformação é o corpo por completo."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Entendi é como 「Gozuki」 e 「Mezuki」, que só",
+                "a cabeça se transforma."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...Deixa para lá."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Por causa do seu desaforo, não deixarei passar batido."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Esta noite, farão parte da riqueza histórica",
+                "「Banquete Imperial Manchu-Han」!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Não sei quanto a mim, mas a história dessa não vai passar",
+                "de um mero 「Dim Sum(ário)」."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Cala a boca.",
+                "Mais do que isso seria 「Yum Cha(-mécum)」."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Agora retorne o vilarejo à forma que estava!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Retorne sem medo.",
+                "Não tenho interesse nos humanos e nem em você."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Nesse caso, para onde estão querendo ir?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Para lá."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ali."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Se estão se referindo à responsável dessa ominosa lua...",
+                "É aquela direção."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Tá vendo? Eu te falei."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "E o dedo da Reimu apontando para todas as direções",
+                "em ângulos de 70º~."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Errado, é 110º.",
+                "Perai, como você adivinhou nosso objetivo?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Estranho seria se eu não soubesse."
+            ]
+        }
+    }
+}

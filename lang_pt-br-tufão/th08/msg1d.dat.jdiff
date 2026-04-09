@@ -1,0 +1,137 @@
+﻿{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Venha, apareça!",
+                "Criatura das trevas que se rasteja na escuridão."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Youmuuu não me deixe aqui..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "O que a Donzela está dizendo? A noite é curta!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Temos que ser rápidas e cortar a ameaça rapidamente."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Não, não era isso que eu..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Acho exagero em 'cortar' a ameaça..."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Pois escolha se você quer cortar ou esmagar, oras!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Calma, antes de ir em frente em 'cortar' ou 'esmagar'.",
+                "Diga-me para onde teremos que ir em primeiro lugar!"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "A empolgação da Youmu é alta no amanhecer."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Você disse que não ia me deixar para atrás.",
+                "A noite só está começando."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "O que será que deu nelas?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Uai?",
+                "Tem um vaga-lume na nossa frente."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Não tinha percebido..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Observar os vaga-lumes é bom, né?",
+                "Youmu não quer fazer um desvio?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Não temos tempo para isso!",
+                "Esses insetos com a minha Roukanken..."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Balelas como essa são a melhor forma de perder tempo!"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Parece que alguém não fica feliz com vaga-lumes por perto.",
+                "Fazia tempo que eu não via um!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "A mira da Donzela Yuyuko é duvidosa.",
+                "Vai demorar até ela derrotar o inimigo."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Pfft, você sabe do ditado 'a pressa é inimiga da perfeição'?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Pô, esqueci que está com pressa.",
+                "E agora, para onde temos que ir?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Eee?",
+                "Que tal irmos naquela direção onde caiu aquele galho?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Submeter a uma coisa dessas..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Mas foi você que disse para concentrar antes de demonstrar",
+                "dúvidas. Pois a direção onde ela vai cair já está destinada."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Gira gira gira～, bingo."
+            ]
+        }
+    }
+}

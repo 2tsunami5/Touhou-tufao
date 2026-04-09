@@ -1,0 +1,508 @@
+﻿{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Estava te esperando."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Muita audácia vir até aqui em plena lua cheia."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "...Mesmo sendo um teste de coragem, eu não tenho",
+                "medo de você!"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "Não deixarei vocês encostrar um dedo naquela humana!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "De repente... os ataques cessaram.",
+                "Momentos assim são aqueles em que o medo reina."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "A forma de um Yūrei irradia uma memorável importância."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Sob esta lua cheia na calada da noite,",
+                "onde até mesmo as plantas dormem."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Yūreis não são raros, mas sua",
+                "forma se destaca."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Aaah! Apareceu!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Youmu apareceu."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Uma Yūrei gritando 'aaah! Apareceu' é..."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Ata é uma humana.",
+                "Por pouco eu não te cortei."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Espera, uma humana em uma hora dessas?",
+                "Sabia que tinha algo de errado!"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Começo de conversa, eu sempre morei aqui.",
+                "Independente da hora, eu sou mais normal que vocês."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "E aí? O que querem comigo?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Viemos para um 'teste de coragem'―― né, Donzela Yuyuko?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Youmu, não chegue perto desta pessoa."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Donzela Yuyuko..."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Ela é diferente dos outros humanos."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Não toque nela.",
+                "A maldição que ela carrega vai te corromper."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Não se deve comê-la.",
+                "A maldição vai te intoxicar."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Além do mais...",
+                "Minhas técnicas não são efetivas contra ela."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Caraca, quanto ódio contra a minha pessoa.",
+                "Logo na primeira vez que nos encontramos."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Ainda por cima jogou um poderzinho do nada,",
+                "o que pretendia fazer contra minha pessoa?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "A Donzela Yuyuko é capaz de matar humanos.",
+                "Isso que ela disse de não ser efetivo――"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Quer dizer que tentou me matar do nada?",
+                "Yūrei pertubada."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Você não é humana, certo?"
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "Eita, a Donzela Yuyuko está com medo?",
+                "Se bem que eu não entenda o porquê."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Mal aí, mas eu sou humana.",
+                "Única diferença é que não morro."
+            ]
+        },
+        "147_0": {
+            "lines": [
+                "Habitante de Hōrai...",
+                "Estou com medo, Youmu."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Estava calma até chegar no suposto 'teste de coragem'.",
+                "Apesar de que... você por acaso comeu algo estranho?"
+            ]
+        },
+        "149_0": {
+            "lines": [
+                "Okay. Tomarei conta disso no seu lugar."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "A Donzela Yuyuko não tem medo das coisas, se chegamos a esse",
+                "nível. Nem mesmo me passou na cabeça que isso fosse possível."
+            ]
+        },
+        "151_0": {
+            "lines": [
+                "Será que eu não me dou bem com Yūreis?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Isso está me frustando.",
+                "Vamos começar o ataque～"
+            ]
+        },
+        "153_0": {
+            "lines": [
+                "Donzela Yuyuko, o que te faz ter",
+                "tanto medo assim?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "O homem que bebe do Elixir de Hōrai se torna imortal."
+            ]
+        },
+        "155_0": {
+            "lines": [
+                "Ao comer o fígado de um humano imortal."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Aquele que come também fica imortal."
+            ]
+        },
+        "157_0": {
+            "lines": [
+                "E se um fantasma comesse o fígado...?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Surge um fantasma que não pode partir."
+            ]
+        },
+        "159_0": {
+            "lines": [
+                "O ciclo de Hōrai chega ao seu fim.",
+                "Não há Nirvana nem renascimento, e nem o Elixir prevalece."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "É só não comer."
+            ]
+        },
+        "161_0": {
+            "lines": [
+                "Oxe, não comaー!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Cara, essas Yūreis tão de brincadeira."
+            ]
+        },
+        "163_0": {
+            "lines": [
+                "Talvez eu, me tornando uma Yūrei,",
+                "vire piada como elas?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Nada o que fazer, né? Não posso morrer para confirmar, heh."
+            ]
+        },
+        "165_0": {
+            "lines": [
+                "Coisa idiota minha ter pensado nisso.",
+                "Donzela Yuyuko, sendo a Donzela Yuyuko de sempre."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Deixarei sinais que irei comer em～",
+                "Imagina o quão delicioso deve ser o fígado de um imortal."
+            ]
+        },
+        "167_0": {
+            "lines": [
+                "Resolveirei isto onde até as mãos da Donzela Yuyuko",
+                "não alcancem."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Bateu a curiosidade agora se um morto consegue me cortar."
+            ]
+        },
+        "169_0": {
+            "lines": [
+                "Não garanto que conseguirei te colocar na mesma categoria",
+                "que a gente. Mas quero ver se você não morre mesmo."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Fantasmas que esquecem o Nirvana não conseguem renascer.",
+                "Humanos que não morrem deixam de conhecer o colorido submundo."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nascer, nasc., nasc., somos obscuros quanto ao início da vida.",
+                "Morrer, morrer, morrer, ficamos nas trevas ao fim da morte."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Eu, que não sei o que é morrer, transcendo as trevas.",
+                "Contemplem o Danmaku, liberto do sombrio ciclo de Samsara!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Como?!",
+                "Minhas forças estão no limite..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Mesmo para uma imortal, existem limites, pelo visto."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Epa, os movimentos da nossa amiguinha estão lentos.",
+                "Agora!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Como assim? Agora?!",
+                "Você não vai comer, né?!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Você pode não morrer, mas também não poderá continuar a luta.",
+                "Vai sentir dor até onde nem sabia que existia."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Ser fantasma é tão legal.",
+                "Sem dores no corpo. Venha ser também. Uma fantasma."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Cabeça, ouviu o que falei antes?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Hmm, é interessante os humanos que não podem morrer.",
+                "Me sinto mais segura podendo lutar dando o meu máximo "
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Eita, quer dizer que tava se segurando esse tempo todo?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Não, isso seria um absurdo."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Sendo sincera, você é forte.",
+                "Por que você é tão forte assim?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Pera um pouco, todo mundo aqui é mais nova do que eu?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Toda força humana tem um limite.",
+                "Isso já estava decidido desde o começo."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "O seu melhor não é o suficiente contra uma Yūrei."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Acho que ser uma Yūrei não tem relação com isso;",
+                "olhe para nós duas, lutando..."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Ah, é um fígado de um imortal bem na minha frente.",
+                "Isso é raro."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Donzela Yuyuko～"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Eu desisto."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Tudo meu já dói mesmo, cansei disso, seja",
+                "fervida ou grelhada, faz o que quiser, chega!"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Ser fervida ou grelhada não é permitido!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "O fígado se come cru. Mesmo se for",
+                "fervida ou grelhada, o Hōrai não perde o seu efeito."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Opa, então bora grelhar ela."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Eu não morro, não adianta me grelhar.",
+                "Está um pouco quente... *fungando*."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Parando para pensar... por que as coisas",
+                "chegaram até esse ponto?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Não foi você que me convidou para esse 'teste de coragem'",
+                "porque acabou se metendo nessa situação?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Aaaah, é verdade."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Era por isso que você estava repetindo",
+                "'fígado vivo', 'fígado vivo' esse tempo todo?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "O teste de coragem está cancelado.",
+                "Percebi que a Kaguya nos enganou."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "É óbvio que a Kaguya queria a gente lutasse com essa humana.",
+                "Falar que é 'teste de coragem' é uma grande mentira."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Cancelado? Não seria suspenso?",
+                "Daqui em diante, o teste de coragem retorna."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Ehー... Para falar a verdade,",
+                "eu não sou boa em lidar com coisas assustadoras."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "Caramba! Olhe, uma Yūrei embaixo daquele bambu..."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Eeeeek."
+            ]
+        }
+    }
+}

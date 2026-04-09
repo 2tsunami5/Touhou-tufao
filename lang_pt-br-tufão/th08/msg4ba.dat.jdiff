@@ -1,0 +1,231 @@
+﻿{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Se mexer, é tiro!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Errei.",
+                "Irei atirar e é para se mover. Mexa-se neste instante."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Hã?",
+                "Marisa o que você está fazendo aqui?"
+            ]
+        },
+        "122_h1_0": {
+            "lines": [
+                "Marisa"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Sei lá. Estou fazendo o de sempre, exterminar Yōkais",
+                "problemáticos. É o que eu faço."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Uauu, que coincidência.",
+                "Eu também estou exterminando Yōkais problemáticos."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Quando EU falo 「Yōkais problemáticos」, me refiro a",
+                "exterminar. No seu caso, esse termo a incomoda, não concorda?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Não muito."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Sério? Então, o que fazes aqui sozinha nesta noite?",
+                "Gostaria de saber."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "É um extermínio de Yōkais problemáticos."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Hoje eu cansei de ficar olhando para a lua.",
+                "Quero deixar isso de lado e vê-la só amanhã."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Diga-me, quem seria a 'Yōkai problemática'?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Estou me referindo a você.",
+                "Mais uma vez você mexeu na divisa de dia e noite, não foi?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Somos nós que estamos parando a noite.",
+                "Mas isso não importa agora!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Ah, é?",
+                "Por acaso não conseguem ver o que está atrás de vocês?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Ahー?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Bom, talvez seja isso.",
+                "Aparenta ser o caso..."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Fala português alienígena.",
+                "Estamos em Gensokyo."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "É a Marisa, falar qualquer coisa para ela é perda de tempo."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Apesar de a lua estar distorcida..."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "O perigo para os humanos é inexistente."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Quê? Não sei onde quer chegar com isso.",
+                "Mas uma noite sem fim é um problemão."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Os Yōkais devoram os humanos à noite."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Se a noite continuar, a comilança os levará à autodestruição."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Não é assim que funciona."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Tenho que exterminá-los antes que se autodestruam."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Ih, ela fugiu?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Bora, bora pegar ela nem que seja no fim do mundo."
+            ]
+        }
+    },
+    "3": {
+        "60_0": {
+            "lines": [
+                "Eita, é a Reimu ali?",
+                "O que aconteceu?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Esse jeitinho de fingir ignorância já deu."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Isso é coisa da Yukari.",
+                "Desta vez eu te pego!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Enquanto perseguíamos a Marisa, acabamos chegando",
+                "no objetivo, pelo que parece."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Sorte genuína é essa que você possui.",
+                "Tanto que, gostaria que a Ran tivesse uma parte disso."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ata.",
+                "Não consigo criar um discernimento do que falam."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Mas ao menos consegui ter uma ideia de quem é a culpada.",
+                "Você não acabou sendo perda de tempo, afinal."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Não sei de fato quem seria a culpada em si.",
+                "Mas sei que ela está dentro daquele casarão."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "É como se eu não tivesse mais o que fazer além de",
+                "ir para casa e a mimir."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Vou orar para, quando acordar, estar de manhã."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Tenha uma boa noite eterna."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Certinho, tente não pegar um resfriado no caminho."
+            ]
+        }
+    }
+}

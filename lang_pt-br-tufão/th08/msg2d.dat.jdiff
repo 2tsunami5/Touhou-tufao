@@ -1,0 +1,129 @@
+﻿{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Es-espera um pouco～!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Você é um estorvo."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Não estão conseguindo ouvir a minha voz?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Por acaso vocês não são humanas?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Youmu, mesmo estando de noite, estou ouvindo um",
+                "pardal piando."
+            ]
+        },
+        "64_1": {
+            "lines": [
+                "Donzela Yuyuko.",
+                "Não se deixe ser levada por esse canto."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Esse canto é do 'Pardal Noturno'.",
+                "O som que produzem é ominoso."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "'Ominoso'? Que falta de educação."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "É bem melhor o som que as Yūreis fazem.",
+                "Não acha?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Sim, é verdade, sem sobra de dúvidas."
+            ]
+        },
+        "69_1": {
+            "lines": [
+                "Por favor, não concorde com ela～"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Eita, olha, Youmu! Os piados estão ficando altos de novo.",
+                "De quem está vindo esse som?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Chega! Não quero mais saber, humana ou não, chega."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Agora começaremos o divertido Festival de Yōkais."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Vamos Youmu, hora de apressar os passos."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oi? Ah, sim, sim. Estou de acordo. Mas... Antes de",
+                "prosseguirmos, temos que abater o pássaro em nossa frente."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Não gosto de Pardais, tem muitos ossos pequenos."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Não deixarei vocês passarem!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "A aparição do Pardal Noturno significa que Yōkais irão",
+                "se reunir em algum lugar."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Vamos sair daqui antes que isso aconteça.",
+                "Hora de apressar os passos."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Espera um pouco. Os ossinhos..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Mas não acabou de dizer que não gosta?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Youmu! Não podemos ser exigentes com comida."
+            ]
+        }
+    }
+}

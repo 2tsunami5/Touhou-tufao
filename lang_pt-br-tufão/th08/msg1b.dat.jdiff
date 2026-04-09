@@ -1,0 +1,110 @@
+﻿{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ooh, a lua está bonita."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Hã? É assim que você vê as coisas?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hmph, vai me dizer que não está bonita.",
+                "Como se chama esse tipo de lua mesmo? Matsuyobi?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Deve ser bom estar com a cabeça nas nuvens.",
+                "Apreciar a lua, com os negócios em dias..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Definitivamente não faria isso com você por perto."
+            ]
+        },
+        "64_1": {
+            "lines": [
+                "Não éramos para nos divertir sob esta noite,",
+                "observando a lua?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Ei. Senhoras."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Queria dizer que eu... estou me divertindo."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Ah, eu também estou me divertindo.",
+                "Me divertindo mais que a Marisa."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Claramente isso está diferente do que disse um agora",
+                "há pouco."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Errada.",
+                "Eu não estou me divertindo observando a luta."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ah, está falando de observar os vaga-lumes, né?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Chegou perto, mas não era isso também,",
+                "mas gostei do palpite."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "...Se não estão agindo, neste caso tomarei a iniciativa!"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "É capturar vaga-lumes."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Mas 'capturar vaga-lumes', isso significa que é",
+                "para prender eles. E não sair no soco com eles."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Veja bem, minha intenção era capturar, mas você",
+                "esgamou ele, não foi?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Paciência, ai ai, que dor de cabeça..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Não confunda, eu estava evitando os vaga-lumes..."
+            ]
+        }
+    }
+}
