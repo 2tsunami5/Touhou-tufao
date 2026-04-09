@@ -1,0 +1,635 @@
+﻿{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Você é uma humana, não é."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Perfeito."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Irei pegar todo o resquício da primavera de você."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Vou pegar tudinho!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Esta sensação de mau agouro."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Não me deixa nenhum pouco contente."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Com toda essa barulheira, estava prevendo."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "　　　Jardineira Meio-espírito　　　　　",
+                "Youmu Konpaku (こんぱくようむ)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Ser coisa de uma humana."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "... Não me diga e de pensar",
+                "que este lugar é..."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Isto era o antigo lugar onde os viventes viviam."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "O Outro Mundo?",
+                "Pelo que entendi, fui convidada de alguma forma."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ainda não é a sua vez."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Mesmo assim."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Como uma humana normal consegue entrar naturalmente",
+                "no além? Isso não é perigoso?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Você rompeu a barreira para chegar até aqui,",
+                "não foi!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Aquela barreira? Eu a quebrei sem nenhum problema."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "O intuito da barreira era para não entrar.",
+                "O motivo da barreira era para dividir."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Parece uma criança subindo em um poste elétrico com aviso de",
+                " 「NÃO SUBA」. Mas você não é uma criança?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "De forma arbitrária, rompe a barreira e, insatisfeita, fala que",
+                "é perigoso deliberadamente. Não me venha com esse papo magro."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Você é muito tagarela para uma Yūrei​."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Eu não sou uma meia-Yūrei​!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Decidiu cismar logo com isso?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Seja como for, o pouco que falta para coletar a primeira."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Essa Saigyō Ayakashi,",
+                "irá florescer por completo."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "O pouco desta primavera que tem em mãos."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "É o último passo necessário para fazê-la florescer."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Você é muito tagalera para uma meia-Yūrei​."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Você ouviu o que eu disse?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Irei te cortar ao meio.",
+                "Esse é o seu fim!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Eu correndo o risco de morrer no além, se eu morrer, iria para o",
+                "mundo dos mortos?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Você vai para o inferno."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Ah, aqui não é o inferno?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "...A Roukanken forjada pelos Yōkais."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Não existe quase nada que eu não possa cortar!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Já têm primavera o suficiente aqui."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Mais do que isso, quais intenções ainda existem?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "A Donzela afirmou que as flores de cerejeira",
+                "iriam florescer por completo este ano..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Essa quantidade de primavera não é o bastante",
+                "para a Saigyō Ayakashi florescer por completo..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Queria saber se algo de bom acontece, se florescer",
+                "por completo."
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Você é uma humana, não é."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Perfeito."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Irei pegar todo o resquício da primavera de você."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Vou pegar tudinho!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Está começando a ficar bastante quente."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Com toda essa barulheira, estava prevendo."
+            ]
+        },
+        "101_h1_0": {
+            "lines": [
+                "　　　Jardineira Meio-espírito　　　　　",
+                "Youmu Konpaku (こんぱくようむ)"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Ser coisa de uma humana."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Neste caso, se eu fosse um cadáver, eu faria barulho?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Não faria."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Uma humana aparecer no Hakugyokurou é um problema sério."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Isso por si só descreve que ela morreu."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Tenho certeza de que eu estou viva."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Indica que passou pela barreira por conta própria."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Por causa dessa imprudência, as almas dos falecidos",
+                "estão agitados."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Até que esse lugar é quentinho."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Isso é porque toda a primavera de Gensokyo está aqui.",
+                "Entendeu?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "As flores de cerejeiras normais estão mais perto de florescer."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Um cadáver contemplando o Hanami, que chique."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Mesmo assim, a Saigyō Ayakashi.",
+                "Não está perto para a sua floração..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Saigyō Ayakashi?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "É o orgulho dos Yōkais."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Admito que me deu vontade de presenciar isso."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Seja como for, o pouco que falta para coletar a primeira.",
+                "Esta Saigyō Ayakashi tem que florescer."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "O pouco desta primavera que tem em mãos."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "É o último passo necessário para fazê-la florescer."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Entendo, não tenho intenção de entregar facilmente",
+                "a primavera que coletei com tanto esforço."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "É o último passo necessário para fazê-la florescer."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Que seja, vou pegar a primavera que você coletou",
+                "custe o que custar."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Vou fazer florescer essa cerejeira dos Yōkais."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Não entregarei minha primavera nem que a vaca tussa."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Digo o mesmo."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "...A Roukanken forjada pelos Yōkais."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Não existe quase nada que eu não possa cortar!"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Certinho, agora me mostre o caminho para a cerejeira",
+                "dos Yōkais."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "De alguma forma, a Saigyō Ayakashi irá florescer por completo.",
+                "Apesar de que esteja aceitável."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Têm algo que me incomoda."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "O que garante que ela vai florescer por completo?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Eu só quero contemplar o Hanami sabe."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Você é uma humana, não é."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Perfeito."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Irei pegar todo o resquício da primavera de você."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Vou pegar tudinho!"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Apareça."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Com toda essa barulheira, estava prevendo."
+            ]
+        },
+        "101_h1_0": {
+            "lines": [
+                "　　　Jardineira Meio-espírito　　　　　",
+                "Youmu Konpaku (こんぱくようむ)"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Ser coisa de uma humana."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Pelo que parece, finalmente cheguei na origem de tudo."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Acabou levando um dia inteiro."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Invade o lugar, age com a maior tranquilidade... folgada."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Aqui é o Hakugyokurou."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "É o lugar onde os mortos descansam."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Você vai acabar tendo uma experiência dolorosa se pensar",
+                "como se estivesse com vida."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Morto não fala."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Seja obediente e devolva a primavera sem um pio."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Só depois, espere mais um pouco."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Negativo."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Só mais um pouco para a Saigyō Ayakashi.",
+                "irá florescer por completo."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Uma primavera normal não é o suficiente para ela florescer."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Eu já disse que não."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "O pouco desta primavera que tem em mãos.",
+                "Esta Saigyō Ayakashi tem que florescer."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Sequer ouviu alguma coisa que eu disse?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "E eu sofrendo com todo esse frio",
+                "por causa disso..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "...Se bem que esse lugar é quentinho."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Bah! Que seja."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Morto não fala, tá bom?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Isso eu concordo."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Pegarei toda essa primavera de você."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Será que as minhas facas também cortam Yūrei?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "A Roukanken forjada pelos Yōkais."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Não existe quase nada que eu não possa cortar!"
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Que legal, também corta as que parecem com Yūrei."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Será porque são de prata?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Caso não saiba, metade de mim não é Yūrei."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Mas a Donzela Saigyouji é uma fantasma por completo."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Acha que têm alguma chance com essas faquinhas",
+                "de meia-tijela?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Vamos com calma, que essa fala não é sua.",
+                "Espere chegar o momento da sua Donzela."
+            ]
+        }
+    }
+}

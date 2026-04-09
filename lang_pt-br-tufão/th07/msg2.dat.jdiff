@@ -1,0 +1,291 @@
+﻿{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ah."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Não lembro de ter uma casa aqui."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Se você andar por aqui, é o seu fim!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Gata Preta do Mau Agouro　　　",
+                "Chen (チェン)　　"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Fim?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Deixando isso de lado, bem-vinda a Mayoiga."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Quero saber desse 'fim'."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Quer dizer que uma vez que passa por aqui não",
+                "consegue mais sair."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Ah, então é isso."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Se não me engano, em Mayoiga existem."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Objetos neste lugar,",
+                "que trazem boa sorte se você levar para casa..."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Está correta!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hora de começar a saquear."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "O que você disse?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Esse é o nosso vilarejo,",
+                "por acaso você poderia se retirar, humana?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "O que aconteceu com a história 'uma vez que passa por aqui...",
+                "Não consegue mais sair'?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Por hora."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Vamos procurar necessidades cotidianas",
+                "convenientes e fáceis de carregar."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, então é assim."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Parece que tem algo semelhante a um humano que mora",
+                "neste lugar."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Seria um gato, cachorro ou raposa?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Alguém me chamou e aqui estou eu..."
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Gata Preta do Mau Agouro　　　",
+                "Chen (チェン)　　"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "...「A estaca que se destaca precisa ser abatida」, heh."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Então, o que veio fazer aqui?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Não interessa para criaturas de quatro patas."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Pelo que parece, para ter chegado em Mayoiga,",
+                "você deve estar perdida~."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Para começo de conversa, nem caminho tinha."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Pouco tempo atrás, teve uma nevasca que deve ter obstruído",
+                "sua visão, e com as mudanças da direção do vento."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Quer dizer que a direção do vento mudou.",
+                "Agora faz sentido."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Você não sabe mais o caminho de volta para casa,",
+                "não é?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Agora faz sentido."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Agora faz sentido."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Do porquê de eu estar encontrando uns sujeitos",
+                "sem pé e cabeça."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Era para ser primavera nesta época..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Por mais que eu pense sobre, há algo de errado acontecendo."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Se está achando algo estranho, pergunte para um humano!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Gata Preta do Mau Agouro　　　",
+                "Chen (チェン)　　"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Mas você não é um humano."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Mesmo se eu fosse, eu não saberia responder."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Épocas como essas."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Gatos se enrolam quietamente embaixo de um kotatsu."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Você não deve acreditar em superstições!"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "(Eu não sabia que era uma superstição...)"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Se esse é o caso, o que os gatos de rua fazem então?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Porque só não colocar para dormir em um abrigo de",
+                "animais? Hein?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "É que... o mundo da Terra Pura é tão quentinho..."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Nós, humanos? Sendo uma ameaça?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Impossível, impossível, totalmente impossível.",
+                "E pensar que você ousaria se opor contra a gente."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Portanto, quer nos testar, não é?"
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Amém～"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "A Terra Pura definitivamente deve ser quente.",
+                "Sem sombra de dúvidas."
+            ]
+        }
+    }
+}
